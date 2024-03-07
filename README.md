@@ -4,7 +4,7 @@ DateTime::Locale - Localization support for DateTime.pm
 
 # VERSION
 
-version 1.33
+version 1.37
 
 # SYNOPSIS
 
@@ -213,7 +213,7 @@ software much more, unless I get so many donations that I can consider working
 on free software full time (let's all have a chuckle at that together).
 
 To donate, log into PayPal and send money to autarch@urth.org, or use the
-button at [https://www.urth.org/fs-donation.html](https://www.urth.org/fs-donation.html).
+button at [https://houseabsolute.com/foss-donations/](https://houseabsolute.com/foss-donations/).
 
 # AUTHOR
 
@@ -222,6 +222,7 @@ Dave Rolsky <autarch@urth.org>
 # CONTRIBUTORS
 
 - Alexander Pankoff <ccntrq@screenri.de>
+- James Raspass <jraspass@gmail.com>
 - Karen Etheridge <ether@cpan.org>
 - Mohammad S Anwar <mohammad.anwar@yahoo.com>
 - Ryley Breiddal <rbreiddal@presinet.com>
@@ -230,7 +231,7 @@ Dave Rolsky <autarch@urth.org>
 
 # COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2003 - 2021 by Dave Rolsky.
+This software is copyright (c) 2003 - 2022 by Dave Rolsky.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
