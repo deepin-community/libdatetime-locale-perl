@@ -1,14 +1,17 @@
 # Việt Nam should stay this way
-typo-in-manual-page usr/share/man/man3/DateTime::Locale::Catalog.3pm.gz line * Nam Name
+typo-in-manual-page Nam Name [usr/share/man/man3/DateTime::Locale::Catalog.3pm.gz:*]
+
+# "Wth" apparently means Sat (Saturday) in Kamba (kam) locale
+typo-in-manual-page Wth With [usr/share/man/man3/DateTime::Locale::kam*]
 
 # "mor" seems to mean July in Fulah
-typo-in-manual-page usr/share/man/man3/DateTime::Locale::ff* mor more
+typo-in-manual-page mor more [usr/share/man/man3/DateTime::Locale::ff*]
 
 # "nam." is used for afternoon/p.m. in Swiss German
-typo-in-manual-page usr/share/man/man3/DateTime::Locale::gsw* nam name
+typo-in-manual-page nam name [usr/share/man/man3/DateTime::Locale::gsw*]
 
 # well, yes, the comment explains the false positive; cf. #968416
-spelling-in-override-comment typo-in-manual-page (line 1) Nam Name
+spelling-in-override-comment typo-in-manual-page Nam Name [usr/share/lintian/overrides/libdatetime-locale-perl:1]
 
 # FHS and Perl use 'share', nothing to worry about
-repeated-path-segment share usr/share/perl5/auto/share/
+repeated-path-segment share [usr/share/perl5/auto/share/]

@@ -53,6 +53,7 @@ Beng
 Bh
 Bhm
 Bhms
+Bhojpuri
 Blin
 Bodo
 Bokmål
@@ -130,7 +131,7 @@ Faso
 Fonyi
 Friulian
 FromData
-Fulah
+Fula
 Futuna
 GF
 GG
@@ -170,6 +171,7 @@ HHmmss
 HK
 HN
 Hant
+Haryanvi
 Hm
 Hmm
 Hms
@@ -192,6 +194,7 @@ Izu
 JE
 JM
 Jahres
+James
 Jedoonee
 Jelhein
 Jiec
@@ -302,6 +305,7 @@ Magyarország
 Maithili
 Makhuwa
 Makonde
+Mande
 Manipuri
 Mantaxtsees
 Marino
@@ -318,6 +322,7 @@ Miquelon
 Mmantaha
 Mohammad
 Mohndaach
+Moksha
 Montag
 Moondaach
 Morisyen
@@ -351,6 +356,7 @@ Nuer
 Nyanja
 Nyankole
 Nynorsk
+Obolo
 Occitan
 Odia
 Ol
@@ -368,6 +374,8 @@ Papua
 Pashto
 PayPal
 Pazartesi
+Pijin
+Pona
 Ponedjeljak
 Príncipe
 Puerto
@@ -377,6 +385,9 @@ QQQQ
 QQQy
 Qidaame
 Qunxa
+Rajasthani
+Raspass
+Raviwaar
 Rica
 Ridas
 Rolsky
@@ -417,7 +428,9 @@ Sichuan
 Sidamo
 Sinhala
 Sint
+Skolt
 Soga
+Somwaar
 Sondag
 Sonto
 Sorbian
@@ -439,6 +452,7 @@ Taita
 Tajik
 Tamazight
 Tanii
+Taraskievica
 Taroko
 Tasawaq
 Tene
@@ -451,6 +465,7 @@ Tigrinya
 Timor
 Tnejn
 Tokelau
+Toki
 Tomé
 Tsonga
 Tunga
@@ -504,6 +519,8 @@ ak_GH
 akahi
 am
 am_ET
+ann
+ann_NG
 ar
 ar_001
 ar_AE
@@ -543,6 +560,7 @@ ast_ES
 astea
 astelehena
 ataasinngorneq
+atejn
 autarch
 ay
 aynas
@@ -563,6 +581,10 @@ bez
 bez_TZ
 bg
 bg_BG
+bgc
+bgc_IN
+bho
+bho_IN
 bm
 bm_ML
 bn
@@ -607,6 +629,8 @@ ckb_IQ
 ckb_IR
 cs
 cs_CZ
+cv
+cv_RU
 cy
 cy_GB
 của
@@ -724,6 +748,7 @@ en_MP
 en_MS
 en_MT
 en_MU
+en_MV
 en_MW
 en_MY
 en_NA
@@ -894,6 +919,8 @@ fr_TN
 fr_VU
 fr_WF
 fr_YT
+frr
+frr_DE
 fur
 fur_IT
 fy
@@ -937,6 +964,8 @@ hete
 hh
 hi
 hi_IN
+hi_Latn
+hi_Latn_IN
 hm
 hmmss
 hms
@@ -967,6 +996,7 @@ ig_NG
 ii
 ii_CN
 ika
+il
 im
 ime
 ing
@@ -985,11 +1015,13 @@ jgo_CM
 jimweri
 jmc
 jmc_TZ
+jraspass
 jumwa
 jv
 jv_ID
 ka
 ka_GE
+kaa
 kab
 kab_DZ
 kam
@@ -1026,6 +1058,8 @@ kok_IN
 ks
 ks_Arab
 ks_Arab_IN
+ks_Deva
+ks_Deva_IN
 ksb
 ksb_TZ
 ksf
@@ -1099,6 +1133,8 @@ mas
 mas_KE
 mas_TZ
 mbere
+mdf
+mdf_RU
 mer
 mer_KE
 mfe
@@ -1197,6 +1233,9 @@ nyn
 nyn_UG
 nädal
 năm
+oc
+oc_ES
+oc_FR
 okko
 om
 om_ET
@@ -1217,6 +1256,8 @@ pekan
 pir
 pirmadienis
 pirmdiena
+pis
+pis_SB
 pl
 pl_PL
 pondelok
@@ -1249,7 +1290,10 @@ qu
 qu_BO
 qu_EC
 qu_PE
+raj
+raj_IN
 ranar
+ravivaar
 rbreiddal
 rm
 rm_CH
@@ -1336,6 +1380,8 @@ sl
 sl_SI
 smn
 smn_FI
+sms
+sms_FI
 sn
 sn_ZW
 sngayan
@@ -1344,6 +1390,7 @@ so_DJ
 so_ET
 so_KE
 so_SO
+somvaar
 sq
 sq_AL
 sq_MK
@@ -1403,6 +1450,8 @@ tk_TM
 to
 to_TO
 toddobaadka
+tok
+tok_001
 tr
 tr_CY
 tr_TR
@@ -1549,7 +1598,7 @@ zu
 zu_ZA
 Åland
 ûse
-ġimgħa
+ġimg
 ži
 Ọjọ
 ọjọ
